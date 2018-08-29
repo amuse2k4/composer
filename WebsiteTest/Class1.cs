@@ -7,5 +7,9 @@ namespace WebsiteTest
 {
 	public class Class1
 	{
+        public string People(string a)
+        {
+            return "test";
+        }
 	}
 }
